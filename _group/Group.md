@@ -10,10 +10,14 @@ venue: "Instituto Español de Oceanografía"
 
 
 
-Mikel latasa
-Rafael González-Quirós
-Francisco Plaza
+Mikel latasa 
+
+Rafael González-Quirós 
+
+Francisco Plaza 
+
 Sergio Vallina
+
 Cova Orejas Saco del Valle
 Andr󿿩s Gutiérrez Rodr󿿭guez
 Eva Santos
