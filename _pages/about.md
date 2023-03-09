@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BEME GROUP"
+title: "Biodiversity and Ecology of Marine Ecosystems group (BEME)"
 excerpt: "Biodiversity and Ecology of Marine Ecosystems"
 author_profile: true
 redirect_from: 
