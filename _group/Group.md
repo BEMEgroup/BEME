@@ -3,7 +3,6 @@ title: "BEME GROUP"
 collection: group
 type: " "
 permalink: /group/Group
-venue: "Instituto Español de Oceanografía"
 #date: " "
 #location: "City, Country"
 ---
