@@ -7,55 +7,63 @@ permalink: /group/Group
 #location: "City, Country"
 ---
 
-
-
-Mikel latasa 
-
-Rafael González-Quirós 
-
-Francisco Plaza 
-
-Sergio Vallina
-
-Cova Orejas Saco del Valle
-
-Andr󿿩s Gutiérrez Rodr󿿭guez
-
-Eva Santos
-
-Iñaki Huskin
-
-Rocío Forcelledo
-
-Laura Díaz
-
-Angel López-Urrutia Llorente
-
-Marián Peña Saenz
-
-Daniel González
-
-Alejandro Isla
-
-Felipe Gonzalez
-
-Itziar Munuera
-
-Pili Fernández
-
-Renate Scharek
-
-Tere Granell
-
-Lara Sanchez Pertierra
+Xose Anxelu Moran
 
 Irene Cuerva Fernandez
 
-Xose Anxelu Moran
+Laura Díaz
+
+Pili Fernández
+
+Rocío Forcelledo
+
+Daniel González
+
+Felipe Gonzalez
+
+Rafael González-Quirós 
+
+Tere Granell
+
+Andrés Gutiérrez Rodríguez
+
+Cristina Gutiérrez Zárate
+
+Iñaki Huskin
+
+Alejandro Isla
+
+Mikel Latasa 
+
+Angel López-Urrutia Llorente
+
+Itziar Munuera
+
+Cova Orejas Saco del Valle
+
+Marián Peña Saenz
 
 Paula Peñalver Pereira
 
+Francisco Plaza 
+
 Sonia Romero Romero
 
-Cristina Gutiérrez Zárate
+Lara Sanchez Pertierra
+
+Eva Santos
+
+Renate Scharek
+
+Sergio Vallina
+
+
+
+
+
+
+
+
+
+
     
