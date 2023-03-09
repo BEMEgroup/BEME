@@ -7,20 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-
-
 Current projects
 ======
 
