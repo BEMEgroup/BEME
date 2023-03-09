@@ -7,7 +7,7 @@ permalink: /group/Group
 #location: "City, Country"
 ---
 
-Xose Anxelu Moran
+
 
 Irene Cuerva Fernandez
 
@@ -36,6 +36,8 @@ Alejandro Isla
 Mikel Latasa 
 
 Angel López-Urrutia Llorente
+
+Xose Anxelu Moran
 
 Itziar Munuera
 
