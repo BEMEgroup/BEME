@@ -1,5 +1,5 @@
 ---
-title: "ACUSDEEP GROUP"
+title: "BEME GROUP"
 collection: group
 type: " "
 permalink: /group/Group
@@ -8,34 +8,31 @@ venue: "Instituto Español de Oceanografía"
 #location: "City, Country"
 ---
 
-# Principal researcher
 
-Marián Peña Sáenz  (marian.pena at ieo.csic.es)
+
+Mikel latasa
+Rafael González-Quirós
+Francisco Plaza
+Sergio Vallina
+Cova Orejas Saco del Valle
+Andr󿿩s Gutiérrez Rodr󿿭guez
+Eva Santos
+Iñaki Huskin
+Rocío Forcelledo
+Laura Díaz
+Angel López-Urrutia Llorente
+Marián Peña Saenz
+Daniel González
+Alejandro Isla
+Felipe Gonzalez
+Itziar Munuera
+Pili Fernández
+Renate Scharek
+Tere Granell
+Lara Sanchez Pertierra
+Irene Cuerva Fernandez
+Xose Anxelu Moran
+Paula Peñalver Pereira
+Sonia Romero Romero
+Cristina Gutiérrez Zárate
     
-
-# Doctorates
-
-  * Beatriz Sobradillo (AZTI) 2016-2018
-  * Airam Sarmiento (ULPGC, FPI adscrita al COB) 2018-2023
-    PhD: ‘Análisis de las propiedades acústicas y pautas de distribución vertical de los peces meso y batipelágicos, y su contribución a la     bomba biológica.’
-
-# Collaborations
-
-  * Enrique Nogueira (Investigador - C.O. Gijón - IEO)
-  * Rafael González-Quirós (Investigador - C.O. Gijón - IEO)
-  * Patricia Reglero (Investigador - C.O. Baleares - IEO)
-  * Diego Álvarez (Investigador - C.O. Baleares - IEO)
-  * Pedro Vélez (Investigador - C.O. Canarias - IEO)
-  * Pilar Olivar (Investigadora - ICM/CSIC)
-  * Santiago Hernández León (Investigador - ULPGC)
-  * Natacha Aguilar (Investigador - ULL)
-  * Víctor Espinosa (Investigador - Unidad Mixta IEO-UPV)
-  * Ramón Miralles (Investigador - Unidad Mixta IEO-UPV)
-  * Beatriz Mouriño (Investigadora - Vigo University)
-
-# Students
-
-  * Lou Andrès (ENSTA University, Brest) Summer 2021. ERASMUS internship
-  * Léo Pham-Van (ENSTA University, Brest) Summer 2022. ERASMUS internship
-  * María Moyà (UIB University, Mallorca) 2022-2023. TFM
-  
