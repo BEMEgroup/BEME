@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "BEME GROUP"
-excerpt: "BEME GROUP"
+excerpt: "Biodiversity and Ecology of Marine Ecosystems"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<img src="/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="600"/>
+<img src="/images/deepsea.jpeg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="600"/>
 
 
 ## Main lines of research
