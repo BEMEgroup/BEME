@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "RECENT PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
-
-# RECENT PUBLICATIONS
-
 
 Alonso-Sáez L., Morán X.A.G., Clokie M. 2018. Low activity of lytic pelagiphages in coastal marine waters. The ISME Journal 12: 2100-2102. DOI: 10.1038/s41396-018-0185-y
 
