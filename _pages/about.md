@@ -11,11 +11,6 @@ redirect_from:
 
 
 <img src="/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="600"/>
-#  @ IEO Baleares and @ IEO Gijón 
-
-
-
-
 
 
 ## Main lines of research
@@ -39,7 +34,7 @@ redirect_from:
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12305.224055888455!2d2.624423!3d39.552707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x859d518d82735362!2sCentro+Oceanogr%C3%A1fico+de+Baleares+-+Instituto+Espa%C3%B1ol+de+Oceanograf%C3%ADa!5e0!3m2!1ses!2ses!4v1556025388318!5m2!1ses!2ses" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 <p>
-  <iframe src="[https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12305.224055888455!2d2.624423!3d39.552707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x859d518d82735362!2sCentro+Oceanogr%C3%A1fico+de+Gijon+-+Instituto+Espa%C3%B1ol+de+Oceanograf%C3%ADa!5e0!3m2!1ses!2ses!4v1556025388318!5m2!1ses!2ses](https://goo.gl/maps/sUgE4xotg7BLAGQU9)" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12305.224055888455!2d2.624423!3d39.552707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x859d518d82735362!2sCentro+Oceanogr%C3%A1fico+de+Gijon+-+Instituto+Espa%C3%B1ol+de+Oceanograf%C3%ADa!5e0!3m2!1ses!2ses!4v1556025388318!5m2!1ses!2ses" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 <p float="left">
   <img src="/images/LogoIEOgr.jpg"   width="100"/>  
