@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACUSDEEP"
+title                    : "BEME"
 title_separator          : "-"
-name                     : &name "Acusdeep group"
+name                     : &name "BEME group"
 description              : &description "Research scientist at Test University"
-url                      : https://marianpena.github.io/ACUSDEEP # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bemegroup.github.io/BEME # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ACUSDEEP"
+repository               : "BEME"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ACUSDEEP"
+  name             : "BEME"
   avatar           : "acus.bmp"
   bio              : "Fish and plankton acoustics at IEO Baleares"
   location         : "Palma, Spain"
@@ -89,12 +89,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "ACUSDEEP"
+  facebook         : "BEME"
   foursquare       :
   github           : 
   google_plus      :
   keybase          :
-  instagram        :  "acusdeep"
+  instagram        :  "BEME"
   lastfm           :
   linkedin         :
   orcid            : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "acusdeep"
+  twitter          : "BEME"
   vine             :
   weibo            :
   xing             :
