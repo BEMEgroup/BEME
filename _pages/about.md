@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<img src="images/deepsea.jpeg" style="display:block; margin-left: auto; margin-right: auto;height=100; width=100"/>
+<img src="images/deepsea.jpeg" style="display:block; margin-left: auto; margin-right: auto;"height="100"; width="100"/>
 
 
 ## Main lines of research
