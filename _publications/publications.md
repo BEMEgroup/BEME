@@ -1,5 +1,136 @@
 #Recent publications
 
+
+Alonso-Sáez L., Morán X.A.G., Clokie M. 2018. Low activity of lytic pelagiphages in coastal marine waters. The ISME Journal 12: 2100-2102. DOI: 10.1038/s41396-018-0185-y
+
+Alonso-Sáez L., Morán X.A.G., González J.M. 2020. Transcriptional patterns of biogeochemically relevant marker genes by temperate marine bacteria. Frontiers in Microbiology 11: 465. DOI XXX
+
+Al-Otaibi N., Huete-Stauffer T.M., Calleja M.L., Irigoien X., Morán X.A.G. 2020. Seasonal variability and vertical distribution of autotrophic and heterotrophic picoplankton in the Central Red Sea. PeerJ 8: e8612. DOI: 10.7717/peerj.8612Al-Otaibi
+
+Al-Otaibi, N., García F.C., Morán X.A.G. 2021. Picoplankton diel variability and estimated growth rates in epipelagic and mesopelagic waters of the central Red Sea. Frontiers in Marine Science 8: 752910. DOI 10.3389/fmars.2021.752910
+
+Alsaffar Z., Pearman J.K., Cúrdia J., Ellis J., Calleja M.Ll., Ruiz-Compean P., Roth F., Villalobos R., Jones B.H., Morán X.A.G., Carvalho S. 2020. The role of seagrass vegetation and local environmental conditions in shaping benthic bacterial and macroinvertebrate communities in a tropical coastal lagoon. Scientific Reports 10: 13550. DOI XX.
+
+Ansari M.I., Calleja M.L., Silva L., Viegas M., Ngugi D.K., Huete-Stauffer T.M., Morán X.A.G. 2022. High-frequency variability of bacterioplankton in response to environmental drivers in Red Sea coastal waters. Frontiers in Microbiology 13: 780530. DOI 10.3389/fmicb.2022.780530.
+
+Arandia-Gorostidi N., Alonso-Sáez L., Stryhanyuk H., Richnow H.H., Morán X.A.G., Musat N. 2020. Warming the phycosphere: differential effect of temperature on the use of diatom-derived carbon by two copiotrophic bacterial taxa. Environmental Microbiology 22: 1381–1396. DOI 10.1111/1462-2920.14954
+
+Arandia-Gorostidi N., González J.M., Huete-Stauffer T.M., Ansari M.I., Morán X.A.G., Alonso-Sáez L. 2020. Light supports cell-integrity and growth rates of taxonomically diverse coastal photoheterotrophs. Environmental Microbiology 22: 3823–3837. DOI 10.1111/1462-2920.15158
+
+Arandia-Gorostidi N., Krabberod A.K., Logares R., Deutschmann I.M., Scharek R., Morán X.A.G., González F., Alonso-Sáez L. 2022. Novel interactions between phytoplankton and bacteria shape microbial seasonal dynamics in coastal ocean waters. Frontiers in Marine Science 9: 901201. DOI 10.3389/fmars.2022.901201
+
+Arnaud Meng, Erwan Corre, Ian Probert, Andres Gutierrez-Rodriguez, Raffaele Siano, Anita Annamale, Adriana Alberti, Corinne Da Silva, Patrick Wincker, Stephane Le Crom, Fabrice Not, Lucie Bittner (2018) Analysis of the genomic basis of functional diversity in dinoflagellates using a transcriptomic-based sequence similarity network. Molecular Ecology 27 (10), 2365-2380
+
+Balbı́n, R., Flexas, M. M., López-Jurado, J. L., Peña, M., Amores, A., & Alemany, F. (2012). Vertical velocities and biological consequences at a front detected at the Balearic Sea. Cont.Shelf Res.
+
+Baltar F, Gutiérrez-Rodríguez A, Meyer M, Skudelny I, Sander S, Thomson B, Nodder S, Middag R, Morales SE. 2018. Specific Effect of Trace Metals on Marine Heterotrophic Microbial Activity and Diversity: Key Role of Iron and Zinc and Hydrocarbon-Degrading Bacteria. Frontiers in Microbiology 9: 3190.
+
+Bartual, Ana; Hernanz-Torrijos, Maria; Sala, Iria; Ortega, Maria J.; Gonzalez-Garcia, Cristina; Bolado-Penagos, Marina; Lopez-Urrutia, Angel; Romero-Martinez, Leonardo; Lubian, Luis M.; Bruno, Miguel; Echevarria, Fidel; Garcia, Carlos M. 2020. Types and Distribution of Bioactive Polyunsaturated Aldehydes in a Gradient from Mesotrophic to Oligotrophic Waters in the Alboran Sea (Western Mediterranean). Marine Drugs 18(3): 159 doi: 10.3390/md18030159
+
+Borja A., Andersen J.H., Arvanitidis C.D., Basset A., Buhl-Mortensen L., Carvalho S., Dafforn K., Devlin M.J., Escobar-Briones E.G., Grenz C., Harder T., Katsanevakis S., Liu D., Metaxas A., Morán X.A.G., Newton A., Piroddi C., Pochon X., Queiros A.M., Snelgrove P., Solidoro C., St. John M.A.,Teixeira H. 2020. Past and future Grand Challenges in Marine Ecosystem Ecology. Frontiers in Marine Science 7: 362. DOI XXX
+
+Boyra, G., Peña, M., Cotano, U., Irigoien, X., Rubio, A., & Nogueira, E. (2016). Spatial dynamics of juvenile anchovy in the Bay of Biscay. Fish. Ocean., 25, 529–543.
+
+Brewin R.J.W., Morán X.A.G., Raitsos D.E., Gittins J.A., Calleja M.L., Viegas M., Ansari M.I., Al-Otaibi N., Huete-Stauffer T.M., Hoteit I. 2019. Factors regulating the relationship between total and size-fractionated chlorophyll-a in coastal waters of the Red Sea. Frontiers in Microbiology 10:1964. DOI: 10.3389/fmicb.2019.01964
+
+Buttay, Lucie; Vasseur, D.A.; González-Quirós, R.; Nogueira, E.2022. Nutrient limitation can explain a rapid transition to synchrony in an upwelling-driven diatom community Limnology and Oceanography. 67, pp.S298-S311.
+
+Calleja M.L., Ansari M.I., Røstad A., Silva L., Kaartverdt S., Irigoien X., Morán X.A.G. 2018. The mesopelagic fish accumulation layer: a hotspot for heterotrophic prokaryotes in the Red Sea twilight zone. Frontiers in Marine Science 5: 259. DOI: 10.3389/fmars.2018.00259
+
+Calleja M.Ll., Al-Otaibi N., Morán X.A.G. 2019. Dissolved organic carbon seasonal and vertical dynamics in the Red Sea: contribution to oxygen respiration. Scientific Reports 9: 4690. DOI: 10.1038/s41598-019-40753-w
+
+Castillo Y.M., Forn I., Yau S., Morán X.A.G., Alonso-Sáez L., Arandia-Gorostidi N., Vaqué D., Sebastián M. 2021. Seasonal dynamics of natural Ostreococcus viral infection at the single cell level using VirusFISH. Environmental Microbiology 23: 3009-3019. DOI 10.1111/1462-2920.15504
+
+Castro, B. F., Peña, M., Nogueira, E., Gilcoto, M., Broullón, E., Comesaña, A., y otros. (2022). Intense upper ocean mixing due to large aggregations of spawning fish. Nature geos. , 15 (4), 1–6.
+
+Chiswell, S.M., A. Gutiérrez-Rodríguez, M. Gall, K. Safi, R. Strzepek, M.R. Décima, and S.D. Nodder. “Seasonal Cycles of Phytoplankton and Net Primary Production from Biogeochemical Argo Float Data in the South-West Pacific Ocean.” Deep Sea Research Part I: Oceanographic Research Papers 187 (September 1, 2022): 103834. https://doi.org/10.1016/j.dsr.2022.103834.
+
+Conradt, Jan; Boerner, Gregor; Lopez-Urrutia, Angel; Moellmann, Christian; Moyano, Marta. 2022. Automated Plankton Classification With a Dynamic Optimization and Adaptation Cycle. Frontiers in Marine Science 9: doi : 10.3389/fmars.2022.868420
+
+Décima, M.; Stukel, M. R.; Nodder, S. D.; Gutiérrez-Rodríguez, A.; Selph, K. E.; dos Santos, A. L.; Safi, K.; Kelly, T. B.; Deans, F.; Morales, S. E.; Baltar, F.; Latasa, M.; Gorbunov, M. Y.; Pinkerton, M. Salp Blooms Drive Strong Increases in Passive Carbon Export in the Southern Ocean. Nat Commun 2023, 14 (1), 425. https://doi.org/10.1038/s41467-022-35204-6.
+
+Dunne A., Carvalho S., Morán X.A.G., Calleja M. Ll, Jones B. 2021. Localized effects of offshore aquaculture on water quality in a tropical sea. Marine Pollution Bulletin 171: 112732. DOI 10.1016/j.marpolbul.2021.112732
+
+Fender Christian K., Moira Décima, Andres Gutiérrez-Rodríguez, Karen E. Selph, Natalia Yingling, and Michael R. Stukel. “Prey Size Spectra and Predator to Prey Size Ratios of Southern Ocean Salps.” bioRxiv, August 2, 2022. https://doi.org/10.1101/2022.02.16.480784.
+
+García F.C., Calleja M.L., Al-Otaibi N., Morán X.A.G. 2018. Diel dynamics and coupling of heterotrophic prokaryotes and dissolved organic matter in epipelagic and mesopelagic waters of the central Red Sea. Environmental Microbiology 20: 2990-3000. DOI: 10.1111/1462-2920.14336 
+
+Gomez, Fernando, Priscillia Gourvil, Tangcheng Li, Yulin Huang, Huan Zhang, Lucie Courcot, Luis F. Artigas, Emilio Soler Onís, Andrés Gutiérrez-Rodríguez, and Senjie Lin. “Molecular Phylogeny of the Spiny-Surfaced Species of the Dinoflagellate Prorocentrum with the Description of P. Thermophilum Sp. Nov. and P. Criophilum Sp. Nov. (Prorocentrales, Dinophyceae).” Journal of Phycology n/a, no. n/a. Accessed November 15, 2022. https://doi.org/10.1111/jpy.13298.
+
+González-Benítez N., García-Corral L.S., Morán X.A.G., Middleburg J.J., Pizay M.D., Gattuso J.-P. 2019. Drivers of microbial carbon fluxes variability in two oligotrophic Mediterranean coastal systems. Scientific Reports 9: 17669. DOI: 10.1038/s41598-019-53650-z
+
+Graco-Roza, Caio; Aarnio, Sonja; Abrego, Nerea; Acosta, Alicia T. R.; Alahuhta, Janne; Altman, Jan; Angiolini, Claudia; Aroviita, Jukka; Attorre, Fabio; Baastrup-Spohr, Lars; Barrera-Alba, Jose J.; Belmaker, Jonathan; Biurrun, Idoia; Bonari, Gianmaria; Bruelheide, Helge; Burrascano, Sabina; Carboni, Marta; Cardoso, Pedro; Carvalho, Jose C.; Castaldelli, Giuseppe; Christensen, Morten; Correa, Gilsineia; Dembicz, Iwona; Dengler, Jurgen; Dolezal, Jiri; Domingos, Patricia; Eros, Tibor; Ferreira, Carlos E. L.; Filibeck, Goffredo; Floeter, Sergio R.; Friedlander, Alan M.; Gammal, Johanna; Gavioli, Anna; Gossner, Martin M.; Granot, Itai; Guarino, Riccardo; Gustafsson, Camilla; Hayden, Brian; He, Siwen; Heilmann-Clausen, Jacob; Heino, Jani; Hunter, John T.; Huszar, Vera L. M.; Janisova, Monika; Jyrkankallio-Mikkola, Jenny; Kahilainen, Kimmo K.; Kemppinen, Julia; Kozub, Lukasz; Kruk, Carla; Kulbiki,Michel; Kuzemko, Anna; Christiaan le Roux, Peter; Lehikoinen, Aleksi; Teixeira de Lima, Domenica; Lopez-Urrutia, Angel; Lukacs, Balazs A.; Luoto, Miska; Mammola, Stefano; Marinho, Marcelo M.; Menezes, Luciana S.; Milardi, Marco; Miranda, Marcela; Moser, Gleyci A. O.; Mueller, Joerg; Niittynen, Pekka; Norkko, Alf; Nowak, Arkadiusz; Ometto, Jean P.; Ovaskainen, Otso; Overbeck, Gerhard E.; Pacheco, Felipe S.; Pajunen, Virpi; Palpurina, Salza; Picazo, Felix; Prieto, Juan A. C.; Rodil, Ivan F.; Sabatini, Francesco M.; Salingre, Shira; De Sanctis, Michele; Segura, Angel M.; da Silva, Lucia H. S.; Stevanovic, Zora D.; Swacha, Grzegorz; Teittinen, Anette; Tolonen,Kimmo T.; Tsiripidis, Ioannis; Virta, Leena; Wang, Beixin; Wang, Jianjun; Weisser, Wolfgang; Xu, Yuan; Soininen, Janne. 2022 Distance decay 2.0-A global synthesis of taxonomic and functional turnover in ecological communities. Global Ecology and Biogeography 31: 1399 - 1421 doi: 10.1111/geb.13513
+
+Gutierrez-Rodriguez A, Stukel MR, Lopes dos Santos A, Biard T, Scharek R, Vaulot D, Landry MR, Not F. 2018. High contribution of Rhizaria (Radiolaria) to vertical export in the California Current Ecosystem revealed by DNA metabarcoding. The ISME Journal. 10.1038/s41396-018-0322-7
+
+Gutiérrez-Rodríguez, A., Safi, K., Fernández, D., Forcén‐Vázquez, A., Gourvil, P., Hoffmann, L., et al (2020). Decoupling between phytoplankton growth and microzooplankton grazing enhances productivity in Subantarctic waters on Campbell Plateau, southeast of New Zealand. Journal of Geophysical Research: Oceans, 125, e2019JC015550. https://doi.org/10.1029/2019JC015550
+
+Gutiérrez-Rodríguez, Andres, Adriana Lopes dos Santos, Karl Safi, Ian Probert, Fabrice Not, Denise Fernández, Priscillia Gourvil, et al. “Planktonic Protist Diversity across Contrasting Subtropical and Subantarctic Waters of the Southwest Pacific.” Progress in Oceanography 206 (August 1, 2022): 102809. https://doi.org/10.1016/j.pocean.2022.102809.
+
+Huete-Stauffer T.M., Arandia-Gorostidi N., González-Benítez N., Díaz-Pérez L., Calvo-Díaz A., Morán X.A.G. 2018. Large plankton enhance heterotrophy under experimental warming in a temperate coastal ecosystem. Ecosystems 21: 1139-1154. DOI: 10.1007/s10021-017-0208-y
+
+Kashiyama Y, Yokoyama A, Shiratori T, Hess S, Not, F, Bachy C, Gutierrez-Rodriguez A, Tamiaki H,….. 2019. Taming chlorophylls by early eukaryotes underpinned algal interactions and the diversification of the eukaryotes on the oxygenated Earth. The ISME Journal. https://doi.org/10.1038/s41396-019-0377-0
+
+Kheireddine M., Ouhssain M., Calleja M.Ll., Morán X.A.G., , Sarma Y.V.B., Tiwari S.P., Jones B.H. 2018. Characterization of light absorption by chromophoric dissolved organic matter (CDOM) in the upper layer of the Red Sea. Deep-Sea Research Part I 133: 72-84. DOI: 10.1016/j.dsr.2018.02.001
+
+Labban A., Palacio A.S., García F.C., Hadaidi G., Ansari M.I., López-Urrutia Á., Alonso-Sáez L., Hong P.-Y., Morán X.A.G. 2021. Temperature responses of heterotrophic bacteria in co-culture with a Red Sea Synechococcus strain. Frontiers in Microbiology 12: 612732. DOI 10.3389/fmicb.2021.612732
+
+Labban A., Shibl A.A., Calleja M.Ll., Hong P.-Y., Morán X.A.G. 2023. Growth dynamics and transcriptional responses of a Red Sea Prochlorococcus strain to varying temperatures. Environmental Microbiology (in press). DOI 10.1111/1462-2920.16326
+
+Labban, Abbrar; Palacio, Antonio S.; Garcia, Francisca C.; Hadaidi, Ghaida; Ansari, Mohd, I; Lopez-Urrutia, Angel; Alonso-Saez, Laura; Hong, Pei-Ying; Moran, Xose Anxelu G. 2021.Temperature Responses of Heterotrophic Bacteria in Co-culture With a Red Sea Synechococcus Strain. Frontiers in Microbiology 12: 1664-302X doi: 10.3389/fmicb.2021.612732
+
+Latasa M., Scharek R., Morán X.A.G., Gutiérrez-Rodríguez A., Emelianov M., Salat J., Vidal M., Estrada M. 2022. Dynamics of phytoplankton groups in three contrasting situations of the open NW Mediterranean Sea revealed by pigment, microscopy, and flow cytometry analyses. Progress in Oceanography 201: 102737. DOI 10.1016/j.pocean.2021.102737 
+
+Latasa, M., R. Scharek, X.A.G. Morán, A. Gutiérrez-Rodríguez, M. Emelianov, J. Salat, M. Vidal, M. Estrada. 2022. Dynamics of phytoplankton groups in three contrasting situations of the open NW Mediterranean Sea revealed by pigment, microscopy and flow cytometry analyses. Progress in Oceanography 201 102737. https://doi.org/10.1016/j.pocean.2021.102737.
+
+Law, C.S., Gall., M., Barr, N., Northcote, L., Sabadel, A., Gutierrez-Rodriguez, A., Meyers, M., Miller, M., Decima, M., Robinson, K., McComb, K., Ragg, N., Frost, E., Ren, J., Armstrong, E., Safi, K. The influence of warming and acidification on coastal plankton. Final Report to Fisheries New Zealand Project ZBD201607, 65pp.
+
+Llopis Monferrer, N., Leynaert, A., Tréguer, P., Gutiérrez-Rodríguez, A., Moriceau, B., Gallinari, M., Latasa, M., L'Helguen, S., Maguer, J.-F., Safi, K., Pinkerton, M.H. and Not, F. (2021), Role of small Rhizaria and diatoms in the pelagic silica production of the Southern Ocean. Limnol Oceanogr, 66: 2187 2202. https://doi.org/10.1002/lno.11743
+
+Lønborg C., Baltar F., Calleja M.L., Morán X.A.G. 2022. Heterotrophic bacteria respond differently to increasing temperature and dissolved organic carbon sources in two tropical coastal systems. Journal of Geophysical Research: Biogeosciences 127: e2022JG006890. DOI 10.1029/2022JG006890
+
+Lønborg C., Baltar F., Carreira C., Morán X.A.G. 2019. Dissolved organic carbon source influences tropical coastal heterotrophic bacterioplankton response to experimental warming. Frontiers in Microbiology 10: 2807. DOI: 10.3389/fmicb.2019.02807
+
+Lopes dos Santos, A, Gérikas-Ribeiro, C., Ong, D., Garczarek, L., Shi, XL., Nodder, SD, Vaulot, D and Gutiérrez-Rodríguez, A. 2022. “Chapter 11 - Phytoplankton Diversity and Ecology through the Lens of High Throughput Sequencing Technologies.” In , edited by Lesley A Clementson, Ruth S Eriksen, and Anusuya B T - Advances in Phytoplankton Ecology Willis, 353–413. Elsevier. https://doi.org/https://doi.org/10.1016/B978-0-12-822861-6.00020-0.
+
+Louzao, Maite; Fernandez-Martin, Pilar; Weidberg, Nicolas; Santos, M Begoña; Gonzalez- Quiros, Rafael. 2020. Spatio-temporal patterns of northern gannet abundance in a migratory and wintering area. Zoology. 140, pp. 125776. doi.org/10.1016/j.zool.2020.125776.
+
+Louzao, Maite; Valeiras, Julio; García-Barcelona, Salvador; González-Quirós, Rafael; Nogueira, Enrique; Iglesias, Magdalena; Bode, Antonio; Murcia, José Luis; Saavedra, Camilo. 2019. Marine megafauna niche coexistence and hotspot areas in a temperate ecosystem. Continental Shelf Research. 186, pp. 77 – 87. doi.org/10.1016/j.csr.2019.07.013.
+
+Magliozzi, C.; Druon, J.-N.; Palialexis, A.; Artigas, L. F.; Boicenco, L.; González-Quirós, R.; Gorokhova, E.;Heyden, B.; McQuatters-Gollop, A.; Varkitzi, I.. Pelagic habitats under MSFD D1: current approaches and priorities. JRC123960. JRC123960, EUR 30619, Luxembourg Publications Office of the European Union, 2021. doi.org/10.2760/942589. ISBN 978-92-76-30988-8.
+
+Magliozzi, C; Palma, M, Druon, J-N; Palialexis, A; MacQuartters-Gollop, A; Varkitzi, I; González-Quirós, R; Gorokhova, E; Birgit, H; Bioceno, L, Artigas, LF (2023) Status of pelagic habitats within the EU-Marine Strategy Framework Directive: Proposals for improving consistency and representativeness of the assessment. Marine Policy 148: 105467.
+
+Meziere Z., Rich W.A., Carvalho S., Benzoni F., Morán X.A.G., Berumen M.L. 2022. Stylophora under stress: A review of research trends and impacts of stressors of a model coral species. Science of the Total Environment 816: 151639. DOI 10.1016/j.scitotenv.2021.151639
+
+Michoud G., Ngugi D.K., Barozzi A., Merlino G., Calleja M.Ll., Delgado-Huertas A., Morán X.A.G., Daffonchio D. 2021. Fine-scale metabolic discontinuity in a stratified prokaryote microbiome of a Red Sea deep halocline. The ISME Journal 15: 2351-2365. DOI 10.1038/s41396-021-00931-z
+
+Morán X.A.G., Arandia-Gorostidi N., Huete-Stauffer T.M., Alonso-Sáez L. 2023. Temperature enhances the functional diversity of dissolved organic matter utilization by coastal marine bacteria. Environmental Microbiology Reports 15: 31-37. DOI 10.1111/1758-2229.13123
+
+Morán X.A.G., Baltar F., Carreira C., Lønborg C. Responses of physiological groups of tropical heterotrophic bacteria to temperature and dissolved organic matter additions: food matters more than warming. 2020. Environmental Microbiology 22: 1930–1943. DOI XXX
+
+Morán X.A.G., Calvo-Díaz A., Arandia-Gorostidi N., Huete-Stauffer T.M. 2018. Temperature sensitivity of microbial plankton growth is seasonally coherent and linked to nutrient availability. Environmental Microbiology 20: 3798-3810. DOI: 10.1111/1462-2920.14393
+
+Morán X.A.G., García F.C., Røstad A., Silva L., Al-Otaibi N., Irigoien X., Calleja M.Ll. 2022. Diel dynamics of dissolved organic matter and heterotrophic prokaryotes reveal enhanced growth at the ocean's mesopelagic fish layer during daytime. Science of the Total Environment 804: 150098. DOI 10.1016/j.scitotenv.2021.150098
+
+Nunes, S., G. L. Perez, M. Latasa, M. Zamanillo, M. Delgado, E. Ortega-Retuerta, C. Marrasé, R. Simó, M. Estrada. 2019. Size fractionation, chemotaxonomic groups and bio-optical properties of phytoplankton along a transect from the Mediterranean to the SW Atlantic Ocean. Scientia Marina, 83: 87-109. https://doi.org/10.3989/scimar.04866.10
+
+Nunes, S., M. Latasa, J.M. Gasol, M. Estrada. 2018. Seasonal and interannual variability of phytoplankton community structure in a Mediterranean coastal site. Marine Ecology Progress Series, 592: 57-75. https://doi.org/10.3354/meps12493.
+
+Nunes, S., M. Latasa, M. Delgado, M. Emelianov, R. Simó, M. Estrada. 2019. Phytoplankton community structure in contrasting ecosystems of the Southern Ocean: South Georgia, South Orkneys and Western Antarctic Peninsula. Deep Sea Research I, 51: 103059,  https://doi.org/10.1016/j.dsr.2019.06.005
+
+Olivar, M. P., Bernal, A., Molı́, B., Peña, M., Balbı́n, R., Castellón, A., y otros. (2012). Vertical distribution, diversity and assemblages of mesopelagic fishes in the western Mediterranean. Deep Sea Res.Part I: Ocean. Res.Pap., 62, 53–69.
+
+Otero-Ferrer J.L., Cermeño P., Bode A., Fernández-Castro B., Gasol J.M., Morán X.A.G., Marañon E., Moreira-Coello V., Varela M.M., Villamaña M., Mouriño-Carballido B. 2018. Factors controlling the community structure of picoplankton in contrasting marine environments. Biogeosciences 15: 6199-6220. DOI: 10.5194/bg-15-6199-2018
+
+Palacio A.S., Cabello A.M., García F.C., Labban A., Morán X.A.G., Garczarek L., Alonso-Sáez L., López-Urrutia Á. 2020. Changes in population age-structure obscure the temperature-size rule in marine cyanobacteria. Frontiers in Microbiology 11: 2059. DOI 10.3389/fmicb.2020.02059
+
+Palacio, Antonio S.; Cabello, Ana Maria; Garcia, Francisca C.; Labban, Abbrar; Moran, Xose Anxelu G.;Garczarek, Laurence; Alonso-Saez, Laura; Lopez-Urrutia, Angel. 2020. Changes in Population Age-Structure Obscure the Temperature-Size Rule in Marine Cyanobacteria. Frontiers in Microbiology 11: 2059 doi: 10.3389/fmicb.2020.02059
+
+Peña, M. & Calise, L. (2016). Use of SDWBA predictions for acoustic volume backscattering and the Self-Organizing Map to discern frequencies identifying Meganyctiphanes norvegica from mesopelagic fish species. Deep Sea Res.Part I: Ocean. Res. Pap. , 110, 50-64.
+
+Peña, M. & Velez-Belchi, P. (2023). Shaping of deep scattering layers by the seascape dynamics in the Canary Islands. Prog. in Ocean. , 210, 102953.
+
 Peña, M. (2018). Robust clustering methodology for multi-frequency acoustic data: A review of standardization, initialization and cluster geometry. Fish.Res., 200, 49-60.
 
 Peña, M. (2019). Mesopelagic fish avoidance from the vessel dynamic positioning system. ICES Journal of Mar. sc.s , 76, 734–742.
