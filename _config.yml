@@ -187,10 +187,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _other
   - scope:
       path: ""
-      type: posts
+      type: other
     values:
       layout: single
       author_profile: true
@@ -227,15 +227,6 @@ defaults:
   - scope:
       path: ""
       type: training
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _other
-  - scope:
-      path: ""
-      type: other
     values:
       layout: single
       author_profile: true
