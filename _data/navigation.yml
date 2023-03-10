@@ -9,9 +9,12 @@ main:
   - title: "Group"
     url: /group/Group.html    
         
-  - title: "News"
-    url: /year-archive/
+  - title: "Training"
+    url: /training/
     
   - title: "Projects"
     url: /projects/
+    
+  - title: "Other activities"
+    url: /other/
     
