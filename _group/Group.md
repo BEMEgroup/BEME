@@ -11,7 +11,7 @@ permalink: /group/Group
 
 Irene Cuerva Fernandez
 
-Laura Díaz
+Laura Díaz Pérez
 
 Pili Fernández
 
