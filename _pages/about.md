@@ -37,7 +37,7 @@ redirect_from:
 <p float="left">
   <img src="images/LogoIEOgr.jpg"   width="100"/>  
   <img src="images/logo-feder-trans.png"   width="100"/>
-  <img src="images/logo_csic-habitual-370x63.png"   width="400"/>  
+  <img src="images/logo_csic-habitual-370x63.png"   width="500"/>  
   
 </p>
 
