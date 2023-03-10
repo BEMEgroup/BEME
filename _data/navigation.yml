@@ -10,7 +10,7 @@ main:
     url: /group/Group.html    
         
   - title: "Training"
-    url: /training/
+    url: /training/Training.html 
     
   - title: "Projects"
     url: /projects/
