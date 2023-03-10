@@ -14,7 +14,7 @@ Publicaciones https://github.com/BEMEgroup/BEME/blob/master/_pages/publications.
 
 Proyectos https://github.com/BEMEgroup/BEME/blob/master/_pages/projects.md
 
-Training https://github.com/BEMEgroup/BEME/blob/master/training/training.md
+Training https://github.com/BEMEgroup/BEME/blob/master/_training/training.md
 
-Other activities https://github.com/BEMEgroup/BEME/blob/master/_pages/other.md
+Other activities https://github.com/BEMEgroup/BEME/blob/master/_other/other.md
 
