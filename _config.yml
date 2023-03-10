@@ -174,7 +174,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  posts:
+  training:
+    output: true
+    permalink: /:collection/:path/
+  other:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -220,10 +223,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _posts
+  # _training
   - scope:
       path: ""
-      type: posts
+      type: training
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _other
+  - scope:
+      path: ""
+      type: other
     values:
       layout: single
       author_profile: true
