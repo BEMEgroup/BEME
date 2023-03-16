@@ -148,6 +148,7 @@ author_profile: true
 - Peña, M. & Calise, L. (2016). Use of SDWBA predictions for acoustic volume backscattering and the Self-Organizing Map to discern frequencies identifying Meganyctiphanes norvegica from mesopelagic fish species. Deep Sea Res.Part I: Ocean. Res. Pap. , 110, 50-64.
 # 2015
 # 2014
+- Peña, M.; Olivar, M.P..; Balbin, R.; López-Jurado, J. L.; Iglesias, M. & Miquel, J. Acoustic detection of mesopelagic fishes in scattering layers of the Balearic Sea (western Mediterranean) Can J Fish Aquat Sci, 2014, 71(8), 1186-1197
 # 2013
 # 2012
 - Balbı́n, R., Flexas, M. M., López-Jurado, J. L., Peña, M., Amores, A., & Alemany, F. (2012). Vertical velocities and biological consequences at a front detected at the Balearic Sea. Cont.Shelf Res.
