@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Training 3"
+permalink: /training/
+author_profile: true
+---
+
 # TRAINING ACTIVITIES
 
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online). Coordinado por Marián Peña. https://intercoonecta.github.io/aulainvertida.html
