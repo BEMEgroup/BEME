@@ -79,15 +79,24 @@ author_profile: true
 - Arandia-Gorostidi N., González J.M., Huete-Stauffer T.M., Ansari M.I., Morán X.A.G., Alonso-Sáez L. 2020. Light supports cell-integrity and growth rates of taxonomically diverse coastal photoheterotrophs. Environmental Microbiology 22: 3823–3837. DOI 10.1111/1462-2920.15158
 - Bartual, Ana; Hernanz-Torrijos, Maria; Sala, Iria; Ortega, Maria J.; Gonzalez-Garcia, Cristina; Bolado-Penagos, Marina; Lopez-Urrutia, Angel; Romero-Martinez, Leonardo; Lubian, Luis M.; Bruno, Miguel; Echevarria, Fidel; Garcia, Carlos M. 2020. Types and Distribution of Bioactive Polyunsaturated Aldehydes in a Gradient from Mesotrophic to Oligotrophic Waters in the Alboran Sea (Western Mediterranean). Marine Drugs 18(3): 159 doi: 10.3390/md18030159
 - Borja A., Andersen J.H., Arvanitidis C.D., Basset A., Buhl-Mortensen L., Carvalho S., Dafforn K., Devlin M.J., Escobar-Briones E.G., Grenz C., Harder T., Katsanevakis S., Liu D., Metaxas A., Morán X.A.G., Newton A., Piroddi C., Pochon X., Queiros A.M., Snelgrove P., Solidoro C., St. John M.A.,Teixeira H. 2020. Past and future Grand Challenges in Marine Ecosystem Ecology. Frontiers in Marine Science 7: 362. DOI XXX
+- Dominguez-Carrió C., Sanchez-Vidal A, Estournel C, Corbera G, Riera JL, Orejas C, Canals M, Gili JM (2020) Seafloor litter sorting in different domains of Cap de Creus continental shelf and submarine canyon (NW Mediterranean Sea) Marine Pollution Bulletin 161 (2020) 111744
 - Gutiérrez-Rodríguez, A., Safi, K., Fernández, D., Forcén‐Vázquez, A., Gourvil, P., Hoffmann, L., et al (2020). Decoupling between phytoplankton growth and microzooplankton grazing enhances productivity in Subantarctic waters on Campbell Plateau, southeast of New Zealand. Journal of Geophysical Research: Oceans, 125, e2019JC015550. https://doi.org/10.1029/2019JC015550
+- Hebbeln D, Wienberg C, Dullo WC, Freiwald A, Mienis F, Orejas C, Titschack J (2020) Cold-water coral reefs thriving under hypoxia. Coral reefs:1-7
+- Kazanidis G, Orejas C, Borja A, Kenchington E, Henry LA, Callerye O, Carreiro-Silva M, Egilsdottir H, GiacomelloE, Grehan A, MenothL, Morato T, Ragnarsson SA, Rueda JL, Stirling D, Stratmann T, van Oevelen D, Palialexis A, JohnsonD, RobertsJM (2020) Assessing the environmental status of selected North Atlantic deep-sea ecosystems. Ecol Ind. doi.org/10.1016/j.ecolind.2020.106624
 - Louzao, Maite; Fernandez-Martin, Pilar; Weidberg, Nicolas; Santos, M Begoña; Gonzalez- Quiros, Rafael. 2020. Spatio-temporal patterns of northern gannet abundance in a migratory and wintering area. Zoology. 140, pp. 125776. doi.org/10.1016/j.zool.2020.125776.
 - Morán X.A.G., Baltar F., Carreira C., Lønborg C. Responses of physiological groups of tropical heterotrophic bacteria to temperature and dissolved organic matter additions: food matters more than warming. 2020. Environmental Microbiology 22: 1930–1943. DOI XXX
+- Morato T, Gonzalez-Irusta JM, Dominguez-Carrio C, Wei CL, Davies A, Sweetman AK, Taranto GH, Beazley L, Garcia-Alegre A, Grehan A, Laffargue P, Murillo FJ, Sacau M, Vaz S, Kenchington E, Arnaud-Haond S, Callery O, Chimienti G, Cordes E, Egilsdottir H, Freiwald A, Gasbarro R, Gutierrez-Zarate C, Gianni M, Gilkinson K, Wareham Hayes VE, Hebbeln D, Hedges K, Henry LA, Johnson D, Koen-Alonso M, Lirette C, Mastrototaro F, Menot L, Molodtsova T, Duran Munoz P, Orejas C, Pennino MG, Puerta P, Ragnarsson SA, Ramiro-Sanchez B, Rice J, Rivera J, Roberts JM, Ross SW, Rueda JL, Sampaio I, Snelgrove P, Stirling D, Treble MA, Urra J, Vad J, van Oevelen D, Watling L, Walkusz W, Wienberg C, Woillez M, Levin LA, Carreiro-Silva M (2020) Climate-induced changes in the suitable habitat of cold-water corals and commercially important deep-sea fishes in the North Atlantic. Glob Chang Biol. DOI: 10.1111/gcb.14996
+- Orejas C, Kenchington E, Rice J, Kazanidis G, Palialexis A, Johnson D, Gianni M, Danovaro R, Roberts JM (2020) Towards a Common Approach to the Assessment of the Environmental Status of Deep-Sea Ecosystems in Areas Beyond National Jurisdiction. Mar Pol https://doi.org/10.1016/j.marpol.2020.104182
 - Palacio A.S., Cabello A.M., García F.C., Labban A., Morán X.A.G., Garczarek L., Alonso-Sáez L., López-Urrutia Á. 2020. Changes in population age-structure obscure the temperature-size rule in marine cyanobacteria. Frontiers in Microbiology 11: 2059. DOI 10.3389/fmicb.2020.02059
 - Palacio, Antonio S.; Cabello, Ana Maria; Garcia, Francisca C.; Labban, Abbrar; Moran, Xose Anxelu G.;Garczarek, Laurence; Alonso-Saez, Laura; Lopez-Urrutia, - Angel. 2020. Changes in Population Age-Structure Obscure the Temperature-Size Rule in Marine Cyanobacteria. Frontiers in Microbiology 11: 2059 doi: 10.3389/fmicb.2020.02059
 - Peña, M. et al. (2020). Multi-frequency and light-avoiding characteristics of deep acoustic layers in the North Atlantic. Mar. Env.Res. , 154.
+- Puerta P, Johnson C, Carreiro-Silva M, Henry LA, Kenchington E, Morato T, Kazanidis G, Rueda JL, Urra J, Ross S, Wei CL, González-Irusta JM, Arnaud-Haond S, Orejas C (2020) Influence of Water Masses on the Biodiversity and Biogeography of Deep-Sea Benthic Ecosystems in the North Atlantic. Frontiers in Marine Science 7
 - Ruiz‐González C., Mestre M., Estrada M., Sebastián M., Salazar G., Agustí S., Moreno‐Ostos E., Reche I., Álvarez‐Salgado X.A., Morán X.A.G., Duarte C.M., Sala M.M., Gasol J.M. 2020. Major imprint of surface plankton on deep ocean prokaryotic structure and activity. Molecular Ecology 29: 1820-1838. DOI 10.1111/mec.15454
 - Sabbagh E.I., Huete-Stauffer T.M.,  Calleja M.Ll.,  Silva L., Viegas M., Morán X.A.G. 2020. Weekly variations of viruses and heterotrophic nanoflagellates and their potential impact on bacterioplankton in shallow waters of the central Red Sea. FEMS Microbiology Ecology 96: fiaa033. DOI 10.1093/femsec/fiaa033
+- Urra J, Palomino D, Lozano P, González-García E, Farias C, Mateo-Ramírez Á, Fernández-Salas LM, López-González N, Vila Y, Orejas C, Puerta P, Rivera J, Henry LA, Rueda JL (2020) Deep-sea habitat characterization using acoustic data and underwater imagery in Gazul mud volcano (Gulf of Cádiz, NE Atlantic). Deep Sea Research Part I: Oceanographic Research Papers:103458
+
 # 2019
+- Alurralde G, Fuentes VL, Maggioni T, Movilla J, Olariaga A, Orejas C, Schloss IR, Tatian M (2019) Role of suspension feeders in antarctic pelagic-benthic coupling: Trophic ecology and potential carbon sinks under climate change. Mar Environ Res 152:104790.
 - Brewin R.J.W., Morán X.A.G., Raitsos D.E., Gittins J.A., Calleja M.L., Viegas M., Ansari M.I., Al-Otaibi N., Huete-Stauffer T.M., Hoteit I. 2019. Factors regulating the relationship between total and size-fractionated chlorophyll-a in coastal waters of the Red Sea. Frontiers in Microbiology 10:1964. DOI: 10.3389/fmicb.2019.01964
 - Calleja M.Ll., Al-Otaibi N., Morán X.A.G. 2019. Dissolved organic carbon seasonal and vertical dynamics in the Red Sea: contribution to oxygen respiration. Scientific Reports 9: 4690. DOI: 10.1038/s41598-019-40753-w
 - González-Benítez N., García-Corral L.S., Morán X.A.G., Middleburg J.J., Pizay M.D., Gattuso J.-P. 2019. Drivers of microbial carbon fluxes variability in two oligotrophic Mediterranean coastal systems. Scientific Reports 9: 17669. DOI: 10.1038/s41598-019-53650-z
@@ -118,25 +127,29 @@ author_profile: true
 - Huete-Stauffer T.M., Arandia-Gorostidi N., González-Benítez N., Díaz-Pérez L., Calvo-Díaz A., Morán X.A.G. 2018. Large plankton enhance heterotrophy under experimental warming in a temperate coastal ecosystem. Ecosystems 21: 1139-1154. DOI: 10.1007/s10021-017-0208-y
 - Kheireddine M., Ouhssain M., Calleja M.Ll., Morán X.A.G., , Sarma Y.V.B., Tiwari S.P., Jones B.H. 2018. Characterization of light absorption by chromophoric dissolved organic matter (CDOM) in the upper layer of the Red Sea. Deep-Sea Research Part I 133: 72-84. DOI: 10.1016/j.dsr.2018.02.001
 - Morán X.A.G., Calvo-Díaz A., Arandia-Gorostidi N., Huete-Stauffer T.M. 2018. Temperature sensitivity of microbial plankton growth is seasonally coherent and linked to nutrient availability. Environmental Microbiology 20: 3798-3810. DOI: 10.1111/1462-2920.14393
+- Mosquera Giménez Á, Vélez-Belchí P, Rivera J, Piñeiro S, Fajar N, Caínzos V, Balbín R, Jiménez Aparicio JA, Dominguez-Carrió C, Blasco-Ferre J, Carreiro-Silva M, MoratoT, Puerta P, Orejas C (2019) Ocean Circulation Over North Atlantic Underwater Features in the Path of the Mediterranean Outflow Water: TheOrmonde and Formigas Seamounts, and the Gazul Mud Volcano. Frontiers in Marine Science 6.
+- Muñoz M, Reul A, García-Martínez MDC, Plaza F, Bautista B, Moya F, Vargas-Yáñez M. Oceanographic and Bathymetric Features as the Target for Pelagic MPA Design: A Case Study on the Cape of Gata. Water. 2018; 10(10):1403. https://doi.org/10.3390/w10101403
 - Nunes, S., M. Latasa, J.M. Gasol, M. Estrada. 2018. Seasonal and interannual variability of phytoplankton community structure in a Mediterranean coastal site. Marine Ecology Progress Series, 592: 57-75. https://doi.org/10.3354/meps12493.
 - Orejas C, Carreiro-Silva M, Mohn C, Reimer JD, Samaai T, Allcock L, Rossi S (2022) Marine Animal Forests of the World: Definition and Characteristics. Research Ideas and Outcomes 8: e96274 doi: 10.3897/rio.8.e96274
+- Orejas C, Jiménez C (eds.) (2019) Mediterranean Cold-water corals: past, present and future. Understanding the deep-sea realms of coral. Coral Reefs of the World, vol 9, Springer, Cham, 581 p. ISBN 978-3-319-91607-1
+- Orejas C, Gori A, Jimenez C, Rivera J, Kamidis N, Abu Alhaija R, Lo Iacono C (2019) Occurrence and distribution of the coral Dendrophyllia ramea in Cyprus insular shelf: Environmental setting and anthropogenic impacts. Deep-Sea Research Part II 164 (2019) 190–205
 - Otero-Ferrer J.L., Cermeño P., Bode A., Fernández-Castro B., Gasol J.M., Morán X.A.G., Marañon E., Moreira-Coello V., Varela M.M., Villamaña M., Mouriño-Carballido B. 2018. Factors controlling the community structure of picoplankton in contrasting marine environments. Biogeosciences 15: 6199-6220. DOI: 10.5194/bg-15-6199-2018
 - Peña, M. (2018). Robust clustering methodology for multi-frequency acoustic data: A review of standardization, initialization and cluster geometry. Fish.Res., 200, 49-60.
 - Peña, M. et al.  (2018). Opportunistic acoustic recordings of (potential) orangeback flying squid Sthenoteuthis pteropus in the Central Eastern Atlantic. J. of Mar. Syst. , 179, 31-37.
 - Puerta P, Mosquera-Giménez A, Reñones O, Domínguez-Carrió C, Rueda JL, Urra J, Carreiro-Silva M, Blasco-Ferre J, Santana Y, Gutiérrez-Zárate C, Vélez-Belchí P, Rivera J, Morato T, Orejas C (2022) Variability of deep-sea megabenthic assemblages along the western pathway of the Mediterranean outflow water Deep–Sea Research I 185 (2022) 103791
+- Rakka M, Bilan M, Godinho A, Movilla J, Orejas C, Carreiro-Silva M (2019) First description of polyp bailout in cold-water octocorals under aquaria maintenance. Coral reefs 38:15-20.
 - Rossi S, Bramanti L, Horta P, Allcock L, Carreiro-Silva M, Coppari M, Denis V, Hadjioannou L, Isla E, Jimenez C, Johnson M, Mohn C, Orejas C, Ramšak A, Reimer J, Rinkevich B, Rizzo L, Salomidi M, Samaai T, Schubert N, Soares M, Thurstan RH, Vassallo P, Ziveri P, Zorrilla-Pujan J (2022) Protecting global marine animal forests. Science insigths. doi/10.1126/science.abq7583
 - Stern R., Kraberg A., Bresnan E., Kooistra W.H.C.F., Lovejoy C., Montresor M., Morán X.A.G., Not F., Salas R., Siano R., Vaulot D., Amaral-Zettler L., Zingone A., Metfies K. 2018. Can molecular tools enhance long-term monitoring of marine protists? Journal of Plankton Research 40: 519-536. DOI: 10.1093/plankt/fby035
+- Tamborrino L, Wienberg C, Titschack J, Wintersteller P, Mienis F, Schröder-Ritzrau A, Freiwald A, Orejas C, Dullo WC, Haberkern J, Hebbeln D (2019) Mid-Holocene extinction of cold-water corals on the Namibian shelf steered by the Benguela oxygen minimum zone. Geology. v. 47, p. 1–4, https://doi.org/10.1130/G46672.1
 - Vázquez-Domínguez E., Morán X.A.G. 2018. Picophytoplankton intaglios in the temperate waters of the southern Bay of Biscay. Aquatic Microbial Ecology 82: 177-197. DOI: 10.3354/ame01885
-
-
 # 2017
-
-
 # 2016
 - Boyra, G., Peña, M., Cotano, U., Irigoien, X., Rubio, A., & Nogueira, E. (2016). Spatial dynamics of juvenile anchovy in the Bay of Biscay. Fish. Ocean., 25, 529–543.
 - Peña, M. & Calise, L. (2016). Use of SDWBA predictions for acoustic volume backscattering and the Self-Organizing Map to discern frequencies identifying Meganyctiphanes norvegica from mesopelagic fish species. Deep Sea Res.Part I: Ocean. Res. Pap. , 110, 50-64.
+# 2015
+# 2014
+# 2013
 # 2012
-
 - Balbı́n, R., Flexas, M. M., López-Jurado, J. L., Peña, M., Amores, A., & Alemany, F. (2012). Vertical velocities and biological consequences at a front detected at the Balearic Sea. Cont.Shelf Res.
 - Olivar, M. P., Bernal, A., Molı́, B., Peña, M., Balbı́n, R., Castellón, A., y otros. (2012). Vertical distribution, diversity and assemblages of mesopelagic fishes in the western Mediterranean. Deep Sea Res.Part I: Ocean. Res.Pap., 62, 53–69.
 
@@ -151,41 +164,3 @@ author_profile: true
 
 
 
-
-
-
-
-
-
-
-
-
-Dominguez-Carrió C, Sanchez-Vidal A, Estournel C, Corbera G, Riera JL, Orejas C, Canals C, Gili JM (2020) Seafloor litter sorting in different domains of Cap de Creus continental shelf and submarine canyon (NW Mediterranean Sea) Mar Poll Bull
-
-Urra J, Palomino D, Lozano P, González-García E, Farias C, Mateo-Ramírez Á, Fernández-Salas LM, López-González N, Vila Y, Orejas C, Puerta P, Rivera J, Henry LA, Rueda JL (2020) Deep-sea habitat characterization using acoustic data and underwater imagery in Gazul mud volcano (Gulf of Cádiz, NE Atlantic). Deep Sea Research Part I: Oceanographic Research Papers:103458
-
-Dominguez-Carrió C., Sanchez-Vidal A, Estournel C, Corbera G, Riera JL, Orejas C, Canals M, Gili JM (2020) Seafloor litter sorting in different domains of Cap de Creus continental shelf and submarine canyon (NW Mediterranean Sea) Marine Pollution Bulletin 161 (2020) 111744
-
-Orejas C, Kenchington E, Rice J, Kazanidis G, Palialexis A, Johnson D, Gianni M, Danovaro R, Roberts JM (2020) Towards a Common Approach to the Assessment of the Environmental Status of Deep-Sea Ecosystems in Areas Beyond National Jurisdiction. Mar Pol https://doi.org/10.1016/j.marpol.2020.104182
-
-Kazanidis G, Orejas C, Borja A, Kenchington E, Henry LA, Callerye O, Carreiro-Silva M, Egilsdottir H, GiacomelloE, Grehan A, MenothL, Morato T, Ragnarsson SA, Rueda JL, Stirling D, Stratmann T, van Oevelen D, Palialexis A, JohnsonD, RobertsJM (2020) Assessing the environmental status of selected North Atlantic deep-sea ecosystems. Ecol Ind. doi.org/10.1016/j.ecolind.2020.106624
-
-Puerta P, Johnson C, Carreiro-Silva M, Henry LA, Kenchington E, Morato T, Kazanidis G, Rueda JL, Urra J, Ross S, Wei CL, González-Irusta JM, Arnaud-Haond S, Orejas C (2020) Influence of Water Masses on the Biodiversity and Biogeography of Deep-Sea Benthic Ecosystems in the North Atlantic. Frontiers in Marine Science 7
-
-Morato T, Gonzalez-Irusta JM, Dominguez-Carrio C, Wei CL, Davies A, Sweetman AK, Taranto GH, Beazley L, Garcia-Alegre A, Grehan A, Laffargue P, Murillo FJ, Sacau M, Vaz S, Kenchington E, Arnaud-Haond S, Callery O, Chimienti G, Cordes E, Egilsdottir H, Freiwald A, Gasbarro R, Gutierrez-Zarate C, Gianni M, Gilkinson K, Wareham Hayes VE, Hebbeln D, Hedges K, Henry LA, Johnson D, Koen-Alonso M, Lirette C, Mastrototaro F, Menot L, Molodtsova T, Duran Munoz P, Orejas C, Pennino MG, Puerta P, Ragnarsson SA, Ramiro-Sanchez B, Rice J, Rivera J, Roberts JM, Ross SW, Rueda JL, Sampaio I, Snelgrove P, Stirling D, Treble MA, Urra J, Vad J, van Oevelen D, Watling L, Walkusz W, Wienberg C, Woillez M, Levin LA, Carreiro-Silva M (2020) Climate-induced changes in the suitable habitat of cold-water corals and commercially important deep-sea fishes in the North Atlantic. Glob Chang Biol. DOI: 10.1111/gcb.14996
-
-Hebbeln D, Wienberg C, Dullo WC, Freiwald A, Mienis F, Orejas C, Titschack J (2020) Cold-water coral reefs thriving under hypoxia. Coral reefs:1-7
-
-Rakka M, Bilan M, Godinho A, Movilla J, Orejas C, Carreiro-Silva M (2019) First description of polyp bailout in cold-water octocorals under aquaria maintenance. Coral reefs 38:15-20.
-
-Mosquera Giménez Á, Vélez-Belchí P, Rivera J, Piñeiro S, Fajar N, Caínzos V, Balbín R, Jiménez Aparicio JA, Dominguez-Carrió C, Blasco-Ferre J, Carreiro-Silva M, MoratoT, Puerta P, Orejas C (2019) Ocean Circulation Over North Atlantic Underwater Features in the Path of the Mediterranean Outflow Water: The Ormonde and Formigas Seamounts, and the Gazul Mud Volcano. Frontiers in Marine Science 6.
-
-Alurralde G, Fuentes VL, Maggioni T, Movilla J, Olariaga A, Orejas C, Schloss IR, Tatian M (2019) Role of suspension feeders in antarctic pelagic-benthic coupling: Trophic ecology and potential carbon sinks under climate change. Mar Environ Res 152:104790.
-
-Tamborrino L, Wienberg C, Titschack J, Wintersteller P, Mienis F, Schröder-Ritzrau A, Freiwald A, Orejas C, Dullo WC, Haberkern J, Hebbeln D (2019) Mid-Holocene extinction of cold-water corals on the Namibian shelf steered by the Benguela oxygen minimum zone. Geology. v. 47, p. 1–4, https://doi.org/10.1130/G46672.1
-
-Orejas C, Jiménez C (eds.) (2019) Mediterranean Cold-water corals: past, present and future. Understanding the deep-sea realms of coral. Coral Reefs of the World, vol 9, Springer, Cham, 581 p. ISBN 978-3-319-91607-1
-
-Orejas C, Gori A, Jimenez C, Rivera J, Kamidis N, Abu Alhaija R, Lo Iacono C (2019) Occurrence and distribution of the coral Dendrophyllia ramea in Cyprus insular shelf: Environmental setting and anthropogenic impacts. Deep-Sea Research Part II 164 (2019) 190–205
-
-Muñoz M, Reul A, García-Martínez MDC, Plaza F, Bautista B, Moya F, Vargas-Yáñez M. Oceanographic and Bathymetric Features as the Target for Pelagic MPA Design: A Case Study on the Cape of Gata. Water. 2018; 10(10):1403. https://doi.org/10.3390/w10101403
