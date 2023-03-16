@@ -10,11 +10,11 @@ main:
     url: /group/Group.html    
         
   - title: "Training"
-    url: /training/Training.html    
+    url: /training/  
     
   - title: "Projects"
     url: /projects/
     
   - title: "Other activities"
-    url: /other/Other.html    
+    url: /other/ 
     
