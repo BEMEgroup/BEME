@@ -5,10 +5,6 @@ permalink: /other/
 author_profile: true
 ---
 
-
-More to come...
-
-
 # Reports
 
 ## 2021
