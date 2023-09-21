@@ -37,3 +37,14 @@ BaleAtún  M. Peña
 
 
 
+---
+layout: archive
+title: "Previous projects"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
+======
