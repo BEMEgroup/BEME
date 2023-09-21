@@ -7,6 +7,8 @@ author_profile: true
 
 # Current projects
 
+HACKATON 2023-2025. Intercoonecta call. IP: Marian Peña. 98.000 €
+
 ROSS-RAMP - Ross Sea Research and Monitoring Programe: is the worlds largest MPA effective? Ministry of Business Employment and Innovation. PI Matt Pinkerton. (National Institute of Water and Atmospheric research). 01/09/2018- 01/09/2023. 6.500.000 €.
 
 10/21-10/25. Cost Action CA 20102 Marine Animal Forests of the World (MAf-World). C. Orejas
