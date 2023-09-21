@@ -27,7 +27,7 @@ permalink: /group/Group
 |Xose Anxelu Moran||||
 |Itziar Munuera||||
 |Cova Orejas Saco del Valle||||
-|Marián Peña Saenz|acoustics, mesopelagic,bathypelagic,algorithms|marian.pena at ieo.csic.es|0000-0002-9000-1060|
+|Marián Peña Saenz|fisheries acoustics, mesopelagic, bathypelagic, algorithms|marian.pena at ieo.csic.es|0000-0002-9000-1060|
 |Paula Peñalver Pereira||||
 |Francisco Plaza ||||
 |Sonia Romero Romero||||
