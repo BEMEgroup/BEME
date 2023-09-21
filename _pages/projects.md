@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 # Current projects
-======
 
 ROSS-RAMP - Ross Sea Research and Monitoring Programe: is the worlds largest MPA effective? Ministry of Business Employment and Innovation. PI Matt Pinkerton. (National Institute of Water and Atmospheric research). 01/09/2018- 01/09/2023. 6.500.000 €.
 
