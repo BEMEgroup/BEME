@@ -8,56 +8,56 @@ permalink: /group/Group
 ---
 
 
+|Name|Email|Research lines|orcid|
+|Irene Cuerva Fernandez||||
 
-Irene Cuerva Fernandez
+|Laura Díaz Pérez||||
 
-Laura Díaz Pérez
+|Pili Fernández||||
 
-Pili Fernández
+|Rocío Forcelledo||||
 
-Rocío Forcelledo
+|Daniel González||||
 
-Daniel González
+|Felipe Gonzalez||||
 
-Felipe Gonzalez
+|Rafael González-Quirós ||||
 
-Rafael González-Quirós 
+|Tere Granell||||
 
-Tere Granell
+|Andrés Gutiérrez Rodríguez||||
 
-Andrés Gutiérrez Rodríguez
+|Cristina Gutiérrez Zárate||||
 
-Cristina Gutiérrez Zárate
+|Iñaki Huskin||||
 
-Iñaki Huskin
+|Alejandro Isla||||
 
-Alejandro Isla
+|Mikel Latasa ||||
 
-Mikel Latasa 
+|Angel López-Urrutia Llorente||||
 
-Angel López-Urrutia Llorente
+|Xose Anxelu Moran||||
 
-Xose Anxelu Moran
+|Itziar Munuera||||
 
-Itziar Munuera
+|Cova Orejas Saco del Valle||||
 
-Cova Orejas Saco del Valle
+|Marián Peña Saenz||||
 
-Marián Peña Saenz
+|Paula Peñalver Pereira||||
 
-Paula Peñalver Pereira
+|Francisco Plaza ||||
 
-Francisco Plaza 
+|Sonia Romero Romero||||
 
-Sonia Romero Romero
+|Lara Sanchez Pertierra||||
 
-Lara Sanchez Pertierra
+|Eva Santos||||
 
-Eva Santos
+|Renate Scharek||||
 
-Renate Scharek
-
-Sergio Vallina
+|Sergio Vallina||||
 
 
 
