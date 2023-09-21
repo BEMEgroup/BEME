@@ -8,7 +8,7 @@ permalink: /group/Group
 ---
 
 
-|Name|Email|Research lines|orcid|
+|Name|Research lines|Email|orcid|
 | ------------- | ------------- | ------------- | ------------- |
 |Irene Cuerva Fernandez||||
 |Laura Díaz Pérez||||
