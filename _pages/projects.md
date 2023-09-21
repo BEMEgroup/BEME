@@ -1,4 +1,10 @@
 
+---
+layout: archive
+permalink: /other/
+author_profile: true
+---
+
 # Current projects
 ======
 
