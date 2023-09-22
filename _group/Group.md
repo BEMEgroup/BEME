@@ -22,7 +22,7 @@ permalink: /group/Group
 |Cristina Gutiérrez Zárate||||
 |Iñaki Huskin||||
 |Alejandro Isla||||
-|Mikel Latasa ||||
+|Mikel Latasa |phytoplankton ecology|mikel.latasa at ieo.csic.es|0000-0002-8202-0923|
 |Angel López-Urrutia Llorente||||
 |Xose Anxelu Moran||||
 |Itziar Munuera||||
