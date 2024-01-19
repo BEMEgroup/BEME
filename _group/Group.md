@@ -7,8 +7,10 @@ permalink: /group/Group
 #location: "City, Country"
 ---
 
-* Researchers 
+* Researchers
+  
 **CENTRO OCEANOGRÁFICO de Gijón/Xixón: 
+
 Mikel Latasa, Rafael González-Quirós, Andrés Gutiérrez Rodríguez, Ángel López-Urrutia, Xosé Anxelu G. Morán, Covadonga Orejas, Francisco Plaza, Renate Scharek, Sergio Vallina. 
 **CENTRO OCEANOGRÁFICO de Baleares: 
 Marián Peña
