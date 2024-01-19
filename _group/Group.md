@@ -7,37 +7,21 @@ permalink: /group/Group
 #location: "City, Country"
 ---
 
+* Researchers
+**CENTRO OCEANOGRÁFICO de Gijón/Xixón: 
+Mikel Latasa, Rafael González-Quirós, Andrés Gutiérrez Rodríguez, Ángel López-Urrutia, Xosé Anxelu G. Morán, Covadonga Orejas, Francisco Plaza, Renate Scharek, Sergio Vallina. 
+**CENTRO OCEANOGRÁFICO de Baleares: 
+Marián Peña
 
-|Name|Research lines|Email|orcid|
-| ------------- | ------------- | ------------- | ------------- |
-|Irene Cuerva Fernandez||||
-|Laura Díaz Pérez||||
-|Pili Fernández||||
-|Rocío Forcelledo||||
-|Daniel González||||
-|Felipe Gonzalez||||
-|Rafael González-Quirós ||||
-|Tere Granell||||
-|Andrés Gutiérrez Rodríguez||||
-|Cristina Gutiérrez Zárate||||
-|Iñaki Huskin||||
-|Alejandro Isla||||
-|Mikel Latasa |phytoplankton ecology|mikel.latasa at ieo.csic.es|0000-0002-8202-0923|
-|Angel López-Urrutia Llorente||||
-|Xose Anxelu Moran||||
-|Itziar Munuera||||
-|Cova Orejas Saco del Valle||||
-|Marián Peña Saenz|fisheries acoustics, mesopelagic, bathypelagic, algorithms|marian.pena at ieo.csic.es|0000-0002-9000-1060|
-|Paula Peñalver Pereira||||
-|Francisco Plaza ||||
-|Sonia Romero Romero||||
-|Lara Sanchez Pertierra||||
-|Eva Santos||||
-|Renate Scharek||||
-|Sergio Vallina||||
+* Technicians
+**CENTRO OCEANOGRÁFICO de Gijón/Xixón: 
+Pilar Fernández, Rocío Forcelledo, Daniel González, Felipe González, Teresa Granell, Iñaki Huskin, Alejandro Isla, Itziar Munuera, Eva Santos.
 
-
-
+* Students
+**CENTRO OCEANOGRÁFICO de Gijón/Xixón: 
+Estudiantes/post-docs: Irene Cuerva, Cristina Gutiérrez-Zárate, Paula Peñalver, Irene Pérez, Ohiana Revuelta, Iria Sala, Lara Sánchez.
+**CENTRO OCEANOGRÁFICO de Baleares: 
+María Moyà
 
 
 
