@@ -5,7 +5,7 @@ permalink: /training/
 author_profile: true
 ---
 (under construction)
-# PhD, TFM, TFG 
+## PhD, TFM, TFG 
 - Cristina Gutiérrez (2020- , IEO-CSIC, U. Barcelona, A. Finisterrae),
 - Joana Cruz (2021- , Uni. Lisboa),
 - Beatiz Vinha (2020- , Uni. Salento, IEO-CSIC, NOC),
@@ -14,10 +14,10 @@ author_profile: true
 - María Moyà (Universidad de Baleares)
 
   
-#    Short stays
+##    Short stays
 
 - Gaël Chauchadis (2024, ENSTA Bretagne)
   
-#    Other activities
+##    Other activities
 
 
