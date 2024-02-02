@@ -3,7 +3,6 @@ title: "BEME GROUP"
 collection: group
 type: " "
 permalink: /group/Group
-#date: " "
 #location: "City, Country"
 ---
 
