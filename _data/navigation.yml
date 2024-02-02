@@ -1,20 +1,23 @@
 # main links links
 main:
+  - title: "Group"
+    url: /group/Group.html 
+  - title: "Research lines"
+    url: /lines/
+    
   - title: "Publications"
     url: /publications_csic/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Group"
-    url: /group/Group.html    
-        
-  - title: "Training"
-    url: /training/  
     
   - title: "Projects"
     url: /projects/
     
-  - title: "Other activities"
-    url: /other/ 
+  - title: "Training"
+    url: /training/  
+    
+  - title: "Outreach"
+    url: /talks/    
+
+    
+ # - title: "Other activities"
+ #   url: /other/ 
     
