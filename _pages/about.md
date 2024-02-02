@@ -12,21 +12,8 @@ redirect_from:
 
 <img src="images/deepsea.jpeg" style="display:block; margin-left: auto; margin-right: auto" height="300" width="300"/>
 
+BEME is an interdisciplinary group formed by researchers from the Oceanographic Centres of Gijón/Xixón and the Balearic Islands (IEO-CSIC). It is focused on the study of plankton, micronecton and benthos, with the common goal of understanding and quantifying the role of the diversity of organisms in the functioning of marine ecosystems.
 
-## Main lines of research
-
-- Observation and study of long-term variations in the pelagic ecosystem. Time series.
-- The role of plankton and its diversity (from viruses to macroplankton) in biogeochemical cycles.
-- Taxonomy and ecology of planktonic groups.
-- Image analysis techniques applied to the study of planktonic and benthic organisms.
-- Structure and dynamics of food webs.
-- Scaling of metabolic rates and their consequences at the macro-ecological level.
-- Ecology and evolution of plankton.
-- Theoretical ecology and numerical simulations.
-- Deep sea benthic ecology, diversity and conservation.
-- Bentho-pelagic coupling.
-- Acoustic methods for fish and plankton assessment in meso and bathypelagic ecosystems.
-- Outreach
 
 
 
