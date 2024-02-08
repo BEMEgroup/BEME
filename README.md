@@ -11,11 +11,11 @@ Página principal https://github.com/BEMEgroup/BEME/blob/master/_pages/about.md
 
 Miembros del grupo en https://github.com/BEMEgroup/BEME/blob/master/_group/Group.md
 
-Publicaciones https://github.com/BEMEgroup/BEME/blob/master/_pages/publications.md
+Publicaciones https://github.com/BEMEgroup/BEME/blob/master/_pages/publications_csic.html
 
-Proyectos https://github.com/BEMEgroup/BEME/blob/master/_pages/projects.md
+Proyectos https://github.com/BEMEgroup/BEME/blob/master/_pages/projects.html
 
 Training https://github.com/BEMEgroup/BEME/blob/master/_pages/training.md
 
-Other activities https://github.com/BEMEgroup/BEME/blob/master/_pages/other.md
+Outreach https://github.com/BEMEgroup/BEME/blob/master/_pages/outreach.md
 
