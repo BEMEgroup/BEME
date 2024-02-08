@@ -7,6 +7,8 @@ author_profile: true
 
 ## Main lines of research
 
+
+
 ### Observation and study of long-term variations in the pelagic ecosystem. Time series.
 - Changes in abundance and diversity of plankton and micronekton as a function of the environment.
   
