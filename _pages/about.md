@@ -15,9 +15,9 @@ redirect_from:
 BEME is an interdisciplinary group formed by researchers from the Oceanographic Centres of Gijón/Xixón and the Balearic Islands (IEO-CSIC). It is focused on the study of plankton, micronecton and benthos, with the common goal of understanding and quantifying the role of the diversity of organisms in the functioning of marine ecosystems.
 
 
-Contact us: 
-☎️ IEO Gijón/Xixón: +34 985 30 97 80   📩 mikel.latasa at ieo.csic.es 
-☎️ IEO Baleares: +34 971 13 37 20  📩  marian.pena at ieo.csic.es   
+Contact us:   
+☎️ IEO Gijón/Xixón: +34 985 30 97 80   📩 mikel.latasa at ieo.csic.es   
+☎️ IEO Baleares: +34 971 13 37 20  📩  marian.pena at ieo.csic.es     
 
 
 <p>
