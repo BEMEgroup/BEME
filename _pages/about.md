@@ -16,9 +16,9 @@ BEME is an interdisciplinary group formed by researchers from the Oceanographic 
 
 
 Contact us: 
- IEO Gijón/Xixón: +34 985 30 97 80   
+IEO Gijón/Xixón: +34 985 30 97 80   
 IEO Baleares: +34 971 13 37 20      
-![image](https://github.com/BEMEgroup/BEME/assets/1233089/8302d105-1a43-45bc-a355-9baa24469121) mikel.latasa at ieo.csic.es  
+mikel.latasa at ieo.csic.es   :email:
 
 <p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12305.224055888455!2d2.624423!3d39.552707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x859d518d82735362!2sCentro+Oceanogr%C3%A1fico+de+Baleares+-+Instituto+Espa%C3%B1ol+de+Oceanograf%C3%ADa!5e0!3m2!1ses!2ses!4v1556025388318!5m2!1ses!2ses" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
