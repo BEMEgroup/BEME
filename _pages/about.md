@@ -31,7 +31,7 @@ Contact us:
   
 </p>
 <p float="left">
-  <img src="images/Asturies.png"   width="500"/>  
+  <img src="images/Asturies.png"   width="800"/>  
   
 </p>
 
