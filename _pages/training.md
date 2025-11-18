@@ -24,6 +24,8 @@ author_profile: true
 ## Courses offered
 
  **Oceanhackweek en español (OHWe)** liderado por Marian Peña del COB:
+
+ 
 | Año|     Fechas |  Actividad| Proyecto| Financiación|
 | ------|  --------------- | ------------------------| ----------| ----------| 
 | 2022 | 15 al 19 de agosto  |[OceanHackWeek 2022 en Español](https://intercoonecta.github.io/ohw22-espanol.html)| ||
